@@ -1,0 +1,5 @@
+evaluar(1+1);
+evaluar(1+2);
+evaluar(-(1+1*6/3-5+7));
+evaluar(-(1+1*6/3-5+1*-2));
+evaluar(-(1+10));

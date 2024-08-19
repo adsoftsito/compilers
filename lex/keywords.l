@@ -12,7 +12,10 @@ double |
 switch | 
 if | 
 while | 
-do  { count_key++;}
+do  { 
+      printf("found %s ", yytext); 
+      count_key++;
+    }
 .|\n   {;}
 %%
 
