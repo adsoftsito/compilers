@@ -4,9 +4,7 @@
    void yyerror(char *s);
 %} 
   
-%token INTEGER
-  
-  
+%token INTEGER    
 /* Rule Section */
 %% 
   
@@ -14,7 +12,6 @@ program:
         program expr '\n' { printf("%d\n", $2); }
         |
         ;
-
 expr: 
         INTEGER           { $$ = $1; } 
         | expr '+' expr   { $$ = $1 + $3; }
@@ -22,12 +19,9 @@ expr:
         ; 
   
 %% 
-  
-  
 void yyerror(char *s) { 
    printf("\n%s\n", s); 
 }
-
 int main (void) {
   printf("enter expression ( a+b, a-b ) : ");
   yyparse();
