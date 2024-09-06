@@ -1,0 +1,10 @@
+{
+  "name": "node-image",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Docker node",
+  "author": "Adolfo Centeno <adsoft@live.com.mx>",
+  "dependencies": {
+     "express": "3.2.4"
+   }
+}
