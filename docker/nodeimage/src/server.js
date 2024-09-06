@@ -1,4 +1,4 @@
-var express = requires('express');
+var express = require('express');
 
 // Constants
 var PORT=8081
