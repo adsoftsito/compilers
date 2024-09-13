@@ -1,3 +1,5 @@
+%option noinput
+
 %{
 #include <stdlib.h>
 #include "calc3.h"
