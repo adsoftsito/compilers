@@ -9,9 +9,9 @@
 [w5](https://docs.google.com/presentation/d/1Wz0uosTGCx55pud2KuQUggcF666y8_SLO-F79LC6hDY/edit?usp=sharing)
 
 #Parcial 2
-[w6]()
-[w7]()
-[w8]()
+[w6](https://docs.google.com/presentation/d/1tLjDYmkaPwwyJHrfDPb7Zk-8CbYUC-vtToTm-cnO_YE/edit?usp=sharing)
+[w7](https://docs.google.com/presentation/d/14KtJUxwHGjgou1fmZAZBHSbDI3YKaM0B5zCS_FwOeQk/edit?usp=sharing)
+[w8](https://docs.google.com/presentation/d/15HHoTxF8nK9hm67Um_33N6qw3JVjJhSTMUrJgeU6S_A/edit?usp=sharing)
 [w9]()
 [w10]()
 
