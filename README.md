@@ -12,8 +12,8 @@
 [w6](https://docs.google.com/presentation/d/1tLjDYmkaPwwyJHrfDPb7Zk-8CbYUC-vtToTm-cnO_YE/edit?usp=sharing)
 [w7](https://docs.google.com/presentation/d/14KtJUxwHGjgou1fmZAZBHSbDI3YKaM0B5zCS_FwOeQk/edit?usp=sharing)
 [w8](https://docs.google.com/presentation/d/15HHoTxF8nK9hm67Um_33N6qw3JVjJhSTMUrJgeU6S_A/edit?usp=sharing)
-[w9]()
-[w10]()
+[w9](https://docs.google.com/presentation/d/1P1ylYSL9c0aJcO2JxHQxiFecEcw8k9Gw3UHm941oozc/edit?usp=sharing)
+[w10](https://docs.google.com/presentation/d/1mKvB72BuCUqDj8LLrB0zOAJUtyImkX52/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 
 #Parcial 3
 [w11]()
