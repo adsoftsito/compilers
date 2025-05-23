@@ -16,8 +16,4 @@
 [w10](https://docs.google.com/presentation/d/1mKvB72BuCUqDj8LLrB0zOAJUtyImkX52/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 
 #Parcial 3
-[w11]()
-[w12]()
-[w13]()
-[w14]()
-[w15]()
+[w11](https://docs.google.com/presentation/d/1jclqwm62SQB5TT5fGtpIngbOeItBwSHl/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
