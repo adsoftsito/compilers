@@ -1,7 +1,8 @@
+// test
 void main()
 {
-	int a; // integer variable
-	float b; /* float variable */
+	int a; //  variable
+	float b; /* variable */
 	/* Multiline
 	Comment */
 	fun(); // function call

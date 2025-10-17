@@ -1,4 +1,4 @@
-FROM gcc:latest
+FROM gcc:9.2
 COPY . /DockerWorld
 WORKDIR /DockerWorld/
 RUN apt-get update
